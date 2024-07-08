@@ -537,6 +537,91 @@ Tomas medidas = Ejecutar acciones de mejora
 - **Verificar**: Se realizan medidas para verificar que se han cumplido los objetivos y procesos.
 - **Consolidar**: Se integran los cambios con el fin de mantenerlos. El proceso debe asegurar que el impulso se mantenga a lo largo del tiempo.
 
+# Prácticas de Gestión
+
+La mejora continua incluye prácticas de gestión específicas que forman parte del sistema de valor de servicio de ITIL. Existen 34 prácticas divididas en tres segmentos: prácticas de gestión general, prácticas de gestión de servicios y prácticas de gestión técnica. Las prácticas de gestión ayudan a soportar la organización en el día a día, asegurando tiempo y presupuesto dedicados a la mejora continua, identificando y priorizando oportunidades de mejora, y coordinando actividades de mejora a lo largo de la organización.
+
+El Sistema de Valor del Servicio incluye:
+
+- 14 Prácticas Generales de Gestión: Se han adoptado y adaptado para la gestión de servicios a partir de dominios generales de gestión de negocios.
+- 17 Prácticas de Gestión de Servicios: Se han desarrollado en los sectores del ITSM y la gestión de servicios.
+- 3 Prácticas de Gestión Técnica: Se han adaptado a partir de dominios de gestión de tecnología con propósitos de gestión de servicios ampliando o desplazando la atención de las soluciones tecnológicas hacia los servicios de IT.
+
+## Lean, Agile y DevOps
+
+ITIL se relaciona con enfoques como Lean, Agile y DevOps, que buscan la eliminación de ineficiencias, mejoras incrementales y aseguramiento de mejoras bien diseñadas y eficaces. Estos enfoques son importantes para mantener la mejora continua alineada con las necesidades del negocio y del mercado.
+
+### Agile
+Agile es una metodología de gestión de proyectos y desarrollo de software que se centra en la entrega iterativa e incremental. Los principios fundamentales de Agile son:
+1. **Personas y relaciones sobre procesos y herramientas.**
+2. **Software funcionando sobre documentación extensiva.**
+3. **Colaboración con el cliente sobre negociación de contratos.**
+4. **Responder al cambio sobre seguir un plan.**
+
+Frameworks populares: Scrum, Kanban, Extreme Programming (XP).
+
+### DevOps
+DevOps es una cultura y conjunto de prácticas que unen el desarrollo de software (Development) y las operaciones de TI (Operations) para mejorar la colaboración y acelerar la entrega de software. Las prácticas clave incluyen:
+1. **Integración Continua (CI)**
+2. **Entrega Continua (CD)**
+3. **Infraestructura como Código (IaC)**
+4. **Monitoreo y Logging**
+
+### Lean
+Lean es una filosofía de gestión que maximiza el valor entregado al cliente mientras se minimizan los desperdicios. Sus principios clave son:
+1. **Eliminar Desperdicio**
+2. **Mejora Continua (Kaizen)**
+3. **Entrega Justo a Tiempo**
+4. **Respeto por las Personas**
+
+## Diferencias y Complementariedad
+
+### Diferencias
+- **Agile**: Se enfoca en la flexibilidad y la entrega rápida de productos mediante iteraciones cortas. Es ideal para manejar cambios y asegurar la satisfacción del cliente.
+- **DevOps**: Extiende Agile al incluir operaciones de TI, asegurando una entrega de software rápida, eficiente y de alta calidad. Se centra en la automatización y la integración continua.
+- **Lean**: Se originó en la manufactura y se adapta al desarrollo de software. Se enfoca en la eliminación de desperdicios y la mejora continua en todos los procesos.
+
+### Complementariedad
+- **Agile** proporciona la metodología para desarrollar y entregar software de forma iterativa y flexible.
+- **DevOps** complementa Agile al mejorar la colaboración entre desarrollo y operaciones, lo que resulta en una entrega continua y de alta calidad.
+- **Lean** complementa ambos al enfocarse en la eficiencia y la eliminación de desperdicios, asegurando que cada proceso añada valor y mejore continuamente.
+
+Estas metodologías y prácticas a menudo se utilizan en conjunto para mejorar la eficiencia y la calidad del desarrollo y entrega de software.
+
+# PRACTICAS DE GESTION
+
+# Gestión de Problemas
+
+- **Objetivo**: Reducir la probabilidad y el impacto de los incidentes mediante la identificaciónde sus causas reales y potenciales, y la gestión de soluciones temporales y errores conocidos.
+
+- Problema: Causa o causa potencial de uno o más incidentes.
+- Error conocido: Un problema analizado pero aún no resuelto.
+- Solución Temporal: Solución que reduce o elimina el impacto del problema mientras no haya una solución definitiva.
+
+**La Gestión de Problemas aborda 3 fases distintas:**
+
+1. - **Identificación del problema: Actividades para identificar y registrar problemas.**
+2. - **Control del problema: Actividades que incluye analizar los problemas y documentar las soluciones temporales y errores conocidos. Se priorizan los problemas por daño y probabilidad de ocurrencia.**
+3. - **Control de errores: Gestiona errores conocidos e identifica posibles soluciones permanentes tomando en cuenta los costos, riesgos y beneficios.**
+
+# Habilitación del Cambio
+
+Maximizar el número de cambios de productos y servicios exitosos asegurando que los riesgos se hayan evaluado de manera apropiada, autorizando la implementación de los cambios y gestionando el calendario de cambios.
+
+- **Cambio**: Adición, modificación o eliminación de algún elemento que puede tener un efecto directo o indirecto en los servicios.
+
+- **La Habilitación del Cambio** debe tener un equilibrio entre:
+- Necesidad de realizar cambios que entreguen un valor adicional al cliente.
+- Necesidad de proteger a clientes y usuarios de cambios con efectos negativos.
+
+## Tipos de Cambios:
+
+- **Estándar**: Previamente autorizados y de bajo riesgo que se comprenden bien y están totalmente documentados, y que se pueden implementar sin necesidad de obtener una autorización adicional. A menudo se inician como solicitudes de servicio, pero también pueden ser cambios operacionales.
+- **Normales**: Se deben planificar, evaluar y autorizar mediante un proceso.
+- **Emergencia**: Son cambios que se deberían introducir tan pronto como sea posible; para resolver un incidente o aplicar un parche de seguridad. Los cambios de emergencia normalmente no están incluidos en un calendario de cambios, y su proceso de evaluación y autorización se agiliza para asegurar que se puedan implementar con rapidez.
+
+**Calendario de Cambios**: muestra el historial de cambios y los planificados; se utiliza para planear cambios, respaldar la comunicación, evitar conflictos y
+asignar recursos.
 
 
 
