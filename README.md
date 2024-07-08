@@ -49,7 +49,7 @@ Estas características aseguran que las normas técnicas sean útiles y confiabl
 - **Verificación:** Medir los resultados de la implementación para verificar si se alcanzaron los objetivos.
 - **Actuar:** Analizar los resultados y buscar formas de mejorar continuamente.
 
-## IT Compliance
+# IT Compliance
 
 ### Concepto
 El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y políticas internas de la empresa, relativas a la tecnología, para evitar la vulneración de datos mediante ataques internos o externos.
@@ -81,7 +81,7 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 **Relevamiento de Riesgos:** Evaluar y mitigar riesgos clave de compliance.
 **Recursos de Compliance:** Contar con un equipo dedicado y experimentado para implementar y ejecutar las políticas de compliance de manera efectiva.
 
-## SLA (Service Level Agreement) - Definición y Significado
+# SLA (Service Level Agreement) - Definición y Significado
 
 - Un SLA es un contrato entre un proveedor de servicios y sus clientes internos o externos que documenta qué serviciosproporcionará el proveedor y define los estándares de servicio que el proveedor está obligado a cumplir.
 - Ejemplo: una tienda de comercio electrónico firma un SLA con un fabricante para crear sus camisetas. El SLA estipula los servicios prestados por el fabricante a la tienda de comercio electrónico individual. El acuerdo incluye aspectos como la calidad de los materiales, la cantidad de camisetas que se producirán en un tiempo determinado y las fechas de entrega.
@@ -140,7 +140,7 @@ Es una herramienta que muestra continuamente cuando una compañía y sus emplead
 
 
 
-## Introducción a la unidad 2: Gobierno de IT
+# Gobierno de IT
 
 **Definición de Gobierno de IT**:
 - El gobierno de IT son las acciones que realiza el área de IT en coordinación con la organización para gestionar los recursos físicos y tecnológicos de manera eficiente, alineando las decisiones con los objetivos del negocio y minimizando riesgos.
@@ -170,7 +170,7 @@ Es una herramienta que muestra continuamente cuando una compañía y sus emplead
 - Incrementa el valor intangible de la Organización.
 - Reduce los riesgos.
 
-## Estadios de madurez del gobierno de IT
+# Estadios de madurez del gobierno de IT
 
 **Estadios de madurez del gobierno de IT**:
 - Etapa 1: Ad hoc (procesos informales, inversión basada en costumbre).
@@ -194,12 +194,12 @@ Es una herramienta que muestra continuamente cuando una compañía y sus emplead
 - **Gestión de recursos** Gestiona, controla y monitorea los recursos humanos y tecnológicos del área (propios y de terceros) para que sean lo más óptima posible.
 - **Medición de desempeño** Usa indicadores que van mucho más allá de los criterios financieros, el Gobierno de IT asegura la medición y la evaluación precisa de los resultados del negocio.
 
-## Madurez del Gobierno de IT
+# Madurez del Gobierno de IT
 - **Ad Hoc – Fragmentada – Consistencia – Mejores Prácticas**
 
 Sin una efectiva medición de desempeño, los otros cuatro aspectos del Gobierno de IT es muy probable que fallen.
 
-## Factores inductores y críticos para implementar el gobierno de IT
+# Factores inductores y críticos para implementar el gobierno de IT
 
 **Factores inductores**:
 - Regulaciones y normativas.
@@ -237,7 +237,7 @@ Un factor crítico es algo que debe estar presente para que el gobierno de IT fu
 - **Descentralizada**: Por unidad de negocio, grupo operativo, subsidiaria o geografía, con cada filial teniendo su propio CIO y presupuesto independiente.
 - **Centralizada**: Depende de un único CIO o director de sistemas, con recursos y presupuestos centralizados a nivel corporativo, implementando una estrategia única en todas las filiales.
 
-## Matriz RASI
+# Matriz RASI
 - La matriz RASI (Responsable, Aprobador, Consultado, Informado) es una herramienta para la administración de proyectos y tareas.
   - **Responsable**: Quien realiza la tarea.
   - **Aprobador**: Quien garantiza que la tarea se complete y rinde cuentas.
@@ -261,4 +261,6 @@ Un factor crítico es algo que debe estar presente para que el gobierno de IT fu
 
 **Pregunta de Examen: ¿Cómo se relacionan IT Compliance y Gobierno de IT?**
 **Respuesta: IT Compliance asegura el cumplimiento de normativas y regulaciones, y es un factor inductor del Gobierno de IT, que a su vez garantiza la alineación de la estrategia de IT con la del negocio.**
+
+
 
