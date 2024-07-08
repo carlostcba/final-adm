@@ -70,6 +70,41 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 - **Fallos en el Monitoreo:** Asegurar que todos los procesos y políticas de compliance se implementen y ejecuten efectivamente, inspeccionando o auditando.
 
 
+## Framework de Compliance
+
+### Componentes Principales
+
+**Cultura Organizacional:** Cambiar la mentalidad "mindset" (lo hago asi por que es como funciona aca) de los empleados hacia la aceptación y comprensión de las nuevas políticas.
+**Políticas y Procedimientos:** Establecer códigos de conducta para empleados y proveedores, políticas de denuncia de irregularidades, politicas de compliance (dadivas que entran en lo juridico quizas).
+**Entrenamiento y Comunicación:** Proveer entrenamiento obligatorio y comunicar regularmente para fortalecer el mensaje.
+**Procesos Claves de Compliance:** Contrastar políticas contra mejores prácticas, llevar a cabo la debida diligencia y revisar continuamente las políticas.
+**Relevamiento de Riesgos:** Evaluar y mitigar riesgos clave de compliance.
+**Recursos de Compliance:** Contar con un equipo dedicado y experimentado para implementar y ejecutar las políticas de compliance de manera efectiva.
+
+## SLA (Service Level Agreement) - Definición y Significado
+
+- Un SLA es un contrato entre un proveedor de servicios y sus clientes internos o externos que documenta qué serviciosproporcionará el proveedor y define los estándares de servicio que el proveedor está obligado a cumplir.
+- Ejemplo: una tienda de comercio electrónico firma un SLA con un fabricante para crear sus camisetas. El SLA estipula los servicios prestados por el fabricante a la tienda de comercio electrónico individual. El acuerdo incluye aspectos como la calidad de los materiales, la cantidad de camisetas que se producirán en un tiempo determinado y las fechas de entrega.
+
+- Un SLA es un acuerdo entre un cliente y un proveedor que establece las pautas y métricas para el nivel de servicio esperado.
+- Ejemplo: Si el cliente contrata un servicio con un SLA del 99.9% de disponibilidad, significa que el proveedor debe garantizar que el servicio esté activo y funcionando el 99.9% del tiempo.
+
+## Como se compone un SLA
+
+- **Servicio**: Especifica las condiciones de la disponibilidad del servicio, ventanas de tiempo del servicio.
+- **Administrativo**: Define las métricas a utilizar y el método de medición, resolución de disputas, cláusulas de indemnización en caso de incumplimiento, actualizacion del SLA.
+
+## Como se compone un SLA
+
+- **Disponibilidad del Servicio** Se mide por “time slot” de manera porcentual en una franja horaria.
+- **Tasa de Fallas** Cantidad o porcentaje de errores, cuantas veces se callo internet, respaldos incompletos.
+- **Calidad técnica** calidad examinando factores como: tamaño de los programas, defectos de programación, etc.
+
+
+
+
+
+
 ## Madurez del Gobierno de IT
 
 - **Ad Hoc – Fragmentada – Consistencia – Mejores Prácticas**
