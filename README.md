@@ -367,3 +367,77 @@ La gestión de servicios es un conjunto de habilidades organizacionales especial
 - Capacitación del Personal
 - Seguridad y Cumplimiento
 
+# Modelo de las Cuatro Dimensiones de ITIL 4
+
+**Dimensiones de ITIL 4:**
+1. **Organizaciones y Personas:** Se enfoca en las habilidades, experiencia y cultura de la organización.
+2. **Información y Tecnología:** Incluye sistemas de gestión, bases de conocimiento y herramientas tecnológicas necesarias para los servicios.
+3. **Socios y Proveedores:** Gestión de relaciones con socios y proveedores, incluyendo contratos y acuerdos.
+4. **Flujos de Valor y Procesos:** Define actividades, flujos de trabajo y procesos necesarios para alcanzar objetivos organizacionales.
+
+# Enfoques de ITIL v4
+
+## 1. Organizaciones y Personas
+
+**Descripción**: Esta dimensión se centra en los recursos humanos, las competencias, la cultura organizacional y las estructuras de gestión.
+**Importancia**: Garantiza que las organizaciones cuenten con personas capacitadas y una cultura adecuada para lograr los objetivos de la gestión de servicios.
+
+**Cómo lo hace**:
+- **Capacitación y Desarrollo**: Implementa programas de formación continua para asegurar que el personal esté al día con las mejores prácticas y tecnologías.
+- **Cultura Organizacional**: Fomenta una cultura de colaboración, responsabilidad y orientación al cliente.
+- **Estructuras de Gestión**: Establece estructuras claras de roles y responsabilidades para facilitar la toma de decisiones y la eficiencia operativa.
+
+## 2. Información y Tecnología
+
+**Descripción**: Trata sobre la información y el conocimiento necesarios para la gestión de servicios, así como las tecnologías utilizadas para gestionarlos.
+**Importancia**: Asegura que la información y la tecnología se gestionen y se utilicen de manera efectiva para apoyar los servicios.
+
+**Cómo lo hace**:
+- **Gestión de Datos**: Implementa políticas y procedimientos para la gestión segura y eficiente de datos.
+- **Innovación Tecnológica**: Adopta tecnologías emergentes y actualiza las existentes para mejorar la prestación de servicios.
+- **Integración de Sistemas**: Asegura que las herramientas y plataformas tecnológicas se integren de manera efectiva para apoyar los procesos de negocio.
+
+## 3. Socios y Proveedores
+
+**Descripción**: Enfoca en las relaciones de la organización con otros proveedores y socios, y cómo estas contribuyen a la creación de valor.
+**Importancia**: Facilita la colaboración y la gestión de las dependencias externas para asegurar la entrega efectiva de servicios.
+
+**Cómo lo hace**:
+- **Selección de Proveedores**: Realiza evaluaciones rigurosas para seleccionar proveedores que cumplan con los estándares de la organización.
+- **Gestión de Contratos**: Establece contratos claros y detallados que definan las expectativas y responsabilidades de todas las partes.
+- **Colaboración Continua**: Mantiene una comunicación abierta y frecuente con socios y proveedores para asegurar la alineación y resolver problemas rápidamente.
+
+## 4. Flujos de Valor y Procesos
+
+**Descripción**: Se refiere a las actividades, flujos de trabajo, controles y procedimientos necesarios para lograr los objetivos de la gestión de servicios.
+**Importancia**: Permite una visión holística de cómo se crean y entregan los servicios, asegurando que los procesos sean eficientes y efectivos.
+
+- Medibles: Tenemos que ser capaces de medir los procesos de una manera relevante. Ej: costo, calidad y variables asociadas.
+- Resultados Específicos: La razón de existir de un proceso es entregar un resultado específico. Este resultado debe ser individualmente identificable y contable.
+- Clientes: Cada proceso entrega sus resultados a un cliente. Los clientes pueden ser internos o externos a la organización. El proceso debe cubrir sus espectativas.
+- Responden a eventos específicos: Mientras un proceso puede ser continuo o iterativo, éste debería responder a un disparador específico.
+
+**Cómo lo hace**:
+- **Mapeo de Procesos**: Documenta y analiza todos los procesos para identificar áreas de mejora.
+- **Optimización de Flujos de Trabajo**: Implementa técnicas de mejora continua para optimizar los flujos de trabajo y eliminar desperdicios.
+- **Automatización**: Utiliza herramientas de automatización para reducir el esfuerzo manual y aumentar la eficiencia.
+
+Estos enfoques se complementan con los siete principios rectores de ITIL v4:
+
+1. **Enfocarse en el valor**
+2. **Empezar donde estás**
+3. **Progresar iterativamente con retroalimentación**
+4. **Colaborar y promover la visibilidad**
+5. **Pensar y trabajar de manera holística**
+6. **Mantenerlo simple y práctico**
+7. **Optimizar y automatizar**
+
+
+
+
+
+
+
+
+
+
