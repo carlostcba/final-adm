@@ -140,6 +140,72 @@ Es una herramienta que muestra continuamente cuando una compañía y sus emplead
 
 
 
+## Introducción a la unidad 2: Gobierno de IT
+
+**Definición de Gobierno de IT**:
+- El gobierno de IT son las acciones que realiza el área de IT en coordinación con la organización para gestionar los recursos físicos y tecnológicos de manera eficiente, alineando las decisiones con los objetivos del negocio y minimizando riesgos.
+- Asegura que la inversión en tecnología sea óptima, que esté alineada con la estrategia del negocio y que entregue valor bajo límites de riesgos aceptables.
+- Considera la cultura organizacional, la estructura organizacional y la madurez del gobierno de IT para implementar estrategias efectivas.
+
+**Relación con IT Compliance y CMI**:
+- **IT Compliance**: El gobierno de IT asegura que la organización cumple con todas las regulaciones y normativas aplicables, como SOC, PCI DSS, ISO 27000, entre otras. Esto es esencial para mantener la conformidad legal y regulatoria.
+- **CMI (Cuadro de Mando Integral)**: Al igual que el CMI, el gobierno de IT no solo se enfoca en aspectos financieros, sino también en factores intangibles que afectan el valor de la organización, como la eficiencia operativa y el cumplimiento normativo.
+
+**Provee**:
+
+- Un marco de estructuras y procesos mediante el cual las Organizaciones pueden alinear la estrategia del área de IT con la estratégia del negocio.
+- Un conjunto de métodos y prácticas que permiten establecer:
+- Criterios de información requeridos por el negocio.
+- Procesos de negocio.
+- Recursos a utilizar.
+- Procesos para conocer y gestionar todos los riesgos relacionados con IT y con el negocio.
+
+
+**Por que es importante**
+
+- Cumple con las regulaciones vigentes.
+- Provee una ventaja competitiva.
+- Soporta los objetivos de la Organización.
+- Facilita el crecimiento y la innovación.
+- Incrementa el valor intangible de la Organización.
+- Reduce los riesgos.
+
+## Estadios de madurez del gobierno de IT
+
+**Estadios de madurez del gobierno de IT**:
+- Etapa 1: Ad hoc (procesos informales, inversión basada en costumbre).
+- Etapa 2: Fragmentado (procesos formalizados parcialmente).
+- Etapa 3: Consistencia (procesos maduros, gobierno de IT instaurado).
+- Etapa 4: Buenas prácticas (procesos optimizados).
+
+## Competencias básicas del gobierno de IT
+
+**Competencias básicas del gobierno de IT**:
+- Gestión de la demanda.
+- Gestión de las relaciones.
+- Gestión financiera.
+- Gestión del portafolio.
+- Gestión de la arquitectura.
+- Estrategia de IT.
+
+- Alinear las inversiones operativas y estratégicas de IT con las estrategias y objetivos comerciales.
+- Balancear la demanda de servicios de IT con los recursos disponibles para lograr objetivos estratégicos.
+- Establecer relaciones colaborativas efectivas con proveedores y las partes interesadas del negocio.
+- Establecer politicas, standards, modelos y procesos para la gestión de IT como un activo de la organización.
+
+**Áreas de enfoque del gobierno de IT**:
+- **Alineación estratégica** Asegura que tanto los procesos de negocios como los de IT trabajen en conjunto.
+- **Entrega de valor** Asegura que el área de IT sea tan eficiente y eficaz como sea posible, Generalmente asociado a los costos.
+- **Gestión de riesgos**  Permite que la empresa visualice los posibles riesgos para el negocio y suministra formas de minimizarlo. Determinar y mitigar los riesgos.
+- **Gestión de recursos** Gestiona, controla y monitorea los recursos humanos y tecnológicos del área (propios y de terceros) para que sean lo más óptima posible.
+- **Medición de desempeño** Usa indicadores que van mucho más allá de los criterios financieros, el Gobierno de IT asegura la medición y la evaluación precisa de los resultados del negocio.
+
+Sin una efectiva medición de desempeño, los otros cuatro aspectos del Gobierno de IT es muy probable que fallen.
+
+
+
+
+
 
 
 
