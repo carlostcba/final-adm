@@ -310,11 +310,43 @@ Características que contribuyen a entregar valor al negocio:
 - Implementar ITIL asegura que los servicios de TI entreguen valor a los clientes, integrando la estrategia del servicio con la del negocio y las necesidades del cliente. 
 - Permite medir, monitorear y optimizar los servicios de TI, gestionar inversiones y presupuestos, y manejar riesgos, conocimientos, competencias y recursos de manera eficiente.
 
+**Gestión de Servicios:**
+La gestión de servicios es un conjunto de habilidades organizacionales especializadas para proveer valor a los clientes en forma de servicios. Se traduce en funciones y procesos llevados a cabo por personas capacitadas.
 
+**Características de los Servicios:**
 
+**Intangibilidad:** Los servicios no son objetos físicos, sino resultados de procesos.
+**Inseparabilidad:** Se producen, venden y consumen simultáneamente.
+**Heterogeneidad:** Cada servicio es una experiencia única, afectada por la relación entre proveedor y cliente.
+**Perecederos:** Los servicios no se pueden almacenar o conservar.
 
+## Relaciones de Servicios
 
+- **Provisión de Servicios**: Actividades que desempeña una organización para ofrecer servicios.
+- **Consumo de Servicios**: Actividades que desempeña una organización para el uso de servicios.
+- **Gestión de Relaciones de Servicio**: Actividades que desempeñan un proveedor y un consumidor de manera conjunta para asegurar la creación continua de valor con base en las ofertas de servicios acordadas.
 
+## Diferencia entre Salida y Resultado
+
+**Salida:** Un entregable tangible o intangible de una actividad o proceso.
+
+**Resultado:** El efecto que obtiene una parte interesada, habilitado por una o más salidas.
+
+**Ejemplo:**
+- **Salida:** Un álbum de fotos de una boda.
+- **Resultado:** La conservación de recuerdos y la capacidad de rememorar momentos especiales.
+- 
+- La salida es un entregable tangible o intangible de una actividad o proceso, mientras que el resultado es el efecto que obtiene una parte interesada, habilitado por una o más salidas.
+
+## Utilidad y Garantía
+
+- **Utilidad:** Funcionalidad de un producto o servicio para satisfacer una necesidad particular.
+- **Garantía:** Aseguramiento de que un producto o servicio cumplirá con los requerimientos acordados.
+
+**Ejemplo Utilidad**: Zoom proporciona las funciones necesarias para realizar reuniones virtuales eficaces.
+**Ejemplo Garantía**: Zoom asegura que su servicio será confiable, seguro y estará disponible según lo acordado, proporcionando tranquilidad a los usuarios sobre el desempeño y la calidad del servicio.
+
+- Estos dos aspectos juntos aseguran que el servicio no solo cumple con las necesidades funcionales (utilidad) sino que también proporciona la confianza y seguridad (garantía) de que funcionará según lo prometido.
 
 
 
