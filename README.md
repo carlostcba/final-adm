@@ -54,13 +54,13 @@ Estas características aseguran que las normas técnicas sean útiles y confiabl
 ### Concepto
 El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y políticas internas de la empresa, relativas a la tecnología, para evitar la vulneración de datos mediante ataques internos o externos.
 
-### <span style="color: green;">Beneficios</span>
+### Beneficios
 - **Mejora la Seguridad:** Establece requisitos que mantienen niveles de seguridad consistentes.
 - **Reducción de Riesgos Legales:** Evita multas y pagos compensatorios por violaciones de seguridad, impacta en la imagen de la empresa.
 - **Incremento del Control:** Previene errores y robos de información, aplicando roles y limitando accesos.
 - **Creación de Confianza:** Demuestra a los clientes el cumplimiento de normas y regulaciones para mantener sus datos seguros.
 
-### <span style="color: green;">Retos en la Implementación de IT Compliance</span>
+### Retos en la Implementación de IT Compliance
 - **Resistencia Organizacional:** Superar la resistencia al cambio en la cultura de la empresa.
 - **Complejidad de las Regulaciones:** Comprender y desglosar regulaciones complejas.
 - **Costo de Compliance:** Justificar la inversión y medir el retorno de compliance y la inversión.
