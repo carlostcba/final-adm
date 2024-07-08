@@ -101,6 +101,44 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 - **Calidad técnica** calidad examinando factores como: tamaño de los programas, defectos de programación, etc.
 
 
+## Presupuesto de IT (Capex y Opex)
+
+- **Presupuesto (Budget)**: Plan financiero para un determinado período.
+
+**Definición y Componentes:**
+- **Opex (Operating Expenditure):** Costo operativo continuo, como el mantenimiento de servicios.
+  - **Ejemplo:** Pago mensual de servicios en la nube.
+- **Capex (Capital Expenditure):** Inversiones en nuevos equipos o soluciones.
+  - **Ejemplo:** Compra de nuevos servidores para reemplazar equipos obsoletos.
+
+
+## Que es CMI
+
+Es una herramienta que muestra continuamente cuando una compañía y sus empleados alcanzan los resultados definidos por el plan estratégico; además permite detectar las desviaciones y expresar los objetivos e iniciativas necesarios para encausarlo.
+
+- **Financiera** Identificar algunas métricas financieras relevantes (cash-flow, crecimiento de ventas, EBITDA, etc y responder la pregunta: ¿Cómo nos ven los accionistas?
+- **Cliente** ¿Cómo nos ven nuestos clientes? ¿Qué es importante para ellos?
+- **Procesos Internos** Identificar las métricas en las que debemos sobresalir, ej: costo por unidad, nuevos productos, etc
+- **Aprendisaje y Crecimiento** ¿Cómo podemos seguir mejorando, crear valor e innovar?
+
+**Características** pretende ayudar a los directivos, en diferentes niveles a tener una visión de la situación de su departamento y cómo su trabajo está repercutiendo en su organización. Algunos de los indicadores principales (KPIs) son: 
+- Peticiones
+- Incidencias
+- Disponibilidad
+- Personal
+- Rendimiento y Cumplimiento de SLAs
+
+¿Qué es un KPI?
+**KPI (Key Performance Indicator)** o Indicador Clave de Rendimiento es una métrica utilizada para evaluar el éxito de una organización, un departamento, un proyecto o una iniciativa específica en alcanzar sus objetivos estratégicos y operativos. Los KPIs son herramientas esenciales para la gestión empresarial, ya que proporcionan una visión clara del rendimiento y permiten tomar decisiones informadas.
+
+ ¿Cuáles son las principales herramientas de gestión mencionadas en la clase y su propósito?
+ 
+**Respuesta:** Las principales herramientas de gestión mencionadas son:
+- **Kanban (Tarjeta):** Para organizar el trabajo diario en equipos.
+- **Cuadro de Mando Integral (CMI):** Para la estrategia a mediano y largo plazo, utilizado principalmente por niveles de coordinación y alta gerencia.
+- **Base de Datos de Gestión de la Configuración (CMDB):** Para el inventario de activos tecnológicos y la mejora continua.
+
+
 
 
 
