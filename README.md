@@ -530,11 +530,12 @@ Tomas medidas = Ejecutar acciones de mejora
 
 # Mejora Continua del Servicio (CSI)
 
-- **Definir la Vision**:
-- **Registrar la situación actual**:
-- **Determinar objetivos**:
-- **Planificar**: 
-- **Verificar**: 
+- **Definir la Vision**: El área de IT recibe información sobre los objetivos de la empresa y, junto con el negocio, define una visión que combine la estrategia de IT con la estrategia de negocio para definir una misión, las metas y objetivos.
+- **Registrar la situación actual**: Relevar el punto de partida y registrarlo; involucra: negocio, organización, gente, procesos y tecnología.
+- **Determinar objetivos**: Partiendo de la visión, se definen prioridades de mejora. Este paso provee metas específicas y un marco de tiempo.
+- **Planificar**: Se detalle un (SIP) Plan de Mejora del Servicio.
+- **Verificar**: Se realizan medidas para verificar que se han cumplido los objetivos y procesos.
+- **Consolidar**: Se integran los cambios con el fin de mantenerlos. El proceso debe asegurar que el impulso se mantenga a lo largo del tiempo.
 
 
 
