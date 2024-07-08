@@ -61,12 +61,13 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 - **Creación de Confianza:** Demuestra a los clientes el cumplimiento de normas y regulaciones para mantener sus datos seguros.
 
 ### Retos en la Implementación de IT Compliance
-- **Resistencia Organizacional:** Superar la resistencia al cambio en la cultura de la empresa.
+- **Resistencia de la Organizacion:** Superar la resistencia al cambio en la cultura de la empresa, convencer a los empleados al cambio y aplicacion de nuevas politicas.
 - **Complejidad de las Regulaciones:** Comprender y desglosar regulaciones complejas.
 - **Costo de Compliance:** Justificar la inversión y medir el retorno de compliance y la inversión.
+- Definir Métricas: definir como se va a medir el exito del programa.
+- Marcar un baseline: establecer un punto de partida de las metricas.
 - **Sobrecarga de Trabajo:** Manejar la carga adicional de trabajo que las nuevas políticas pueden generar.
-- **Fallos en el Monitoreo:** Asegurar que todos los procesos y políticas de compliance se implementen y ejecuten efectivamente.
-
+- **Fallos en el Monitoreo:** Asegurar que todos los procesos y políticas de compliance se implementen y ejecuten efectivamente, inspeccionando o auditando.
 
 
 ## Madurez del Gobierno de IT
