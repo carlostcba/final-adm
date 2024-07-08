@@ -348,6 +348,22 @@ La gestión de servicios es un conjunto de habilidades organizacionales especial
 
 - Estos dos aspectos juntos aseguran que el servicio no solo cumple con las necesidades funcionales (utilidad) sino que también proporciona la confianza y seguridad (garantía) de que funcionará según lo prometido.
 
+## Gestión de Costos y Riesgos en ITIL
 
+**Costos:**
+- **Evitados (o eliminados):** Costos que el consumidor no asume al contratar un servicio.
+- **Impuestos (o asumidos):** Costos que el consumidor asume al adquirir un servicio.
 
+**Ejemplo Evitados**: Una empresa decide utilizar un servicio de computación en la nube (como Amazon Web Services o Microsoft Azure) en lugar de mantener su propio centro de datos.
+- Infraestructura Física
+- Espacio Físico
+- Personal Especializado
+- Electricidad y Enfriamiento
+
+**Ejemplo Impuestos**: La misma empresa que utiliza servicios de computación en la nube asume ciertos costos asociados con esta decisión.
+
+- Suscripción o Pago por Uso
+- Conectividad a Internet
+- Capacitación del Personal
+- Seguridad y Cumplimiento
 
