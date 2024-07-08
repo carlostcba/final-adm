@@ -140,7 +140,7 @@ Es una herramienta que muestra continuamente cuando una compañía y sus emplead
 
 
 
-# Gobierno de IT
+# Unidad 2 : Gobierno de IT
 
 **Definición de Gobierno de IT**:
 - El gobierno de IT son las acciones que realiza el área de IT en coordinación con la organización para gestionar los recursos físicos y tecnológicos de manera eficiente, alineando las decisiones con los objetivos del negocio y minimizando riesgos.
@@ -261,6 +261,61 @@ Un factor crítico es algo que debe estar presente para que el gobierno de IT fu
 
 **Pregunta de Examen: ¿Cómo se relacionan IT Compliance y Gobierno de IT?**
 **Respuesta: IT Compliance asegura el cumplimiento de normativas y regulaciones, y es un factor inductor del Gobierno de IT, que a su vez garantiza la alineación de la estrategia de IT con la del negocio.**
+
+# Unidad 3: ITIL
+
+**Orígenes y Evolución de ITIL:**
+
+ITIL fue desarrollado a fines de los años 80 por la agencia de telecomunicaciones y computación CSTA en el Reino Unido, en respuesta a la creciente demanda de servicios de TI. La versión 1 incluía más de 40 publicaciones sobre diversos aspectos de la gestión de servicios.
+
+La versión 2, lanzada en 1999, consolidó estas publicaciones en 10, enfocándose en procesos y mejores prácticas. La versión 3, introducida en 2007, añadió el concepto del ciclo de vida del servicio, dividiéndolo en cinco fases: estrategia del servicio, diseño del servicio, transición del servicio, operación del servicio y mejora continua del servicio.
+
+En 2019, se lanzó la versión 4, que incorpora metodologías ágiles y DevOps, enfocándose en la colaboración e integración de actores y en conceptos como costos, resultados, riesgos y valor.
+
+- ITIL es una biblioteca de infraestructura de tecnología de la información que proporciona una visión integral de la gestión de servicios de TI.
+- ITIL ha evolucionado desde la versión 1 con más de 40 publicaciones, pasando por la versión 2 que consolidó estas en 10, la versión 3 que introdujo el ciclo de vida del servicio y la versión 4 que incorpora metodologías ágiles y DevOps.
+
+## Comparación de ITIL
+
+| **Aspecto**             | **ITIL v1**                                 | **ITIL v2**                                 | **ITIL v3**                                 | **ITIL v4**                                 |
+|-------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
+| **Lanzamiento**         | 1989                                       | 2000                                       | 2007                                       | 2019                                       |
+| **Estructura**          | (40) 31 libros cubriendo diferentes áreas       | (10) 7 libros principales divididos en dos conjuntos (Soporte de Servicio y Entrega de Servicio) | 5 libros principales (Ciclo de Vida del Servicio) | 4 dimensiones del manejo de servicios y 34 prácticas - 14 Gestion General - 17 Gestion de Servicios - 3 Gestion Tecnica  |
+| **Enfoque principal**   | Mejores prácticas para gestión de servicios de TI | Mejora en la eficiencia operativa y gestión de servicios | Ciclo de vida del servicio, integrando estrategia, diseño, transición, operación y mejora continua | Integración con prácticas modernas (Agile, DevOps, Lean) y enfoque en la creación de valor |
+| **Procesos**            | Básico, no estructurado formalmente        | Introducción de procesos definidos como Gestión de Incidentes, Problemas, Cambios, Configuración, etc. | Expansión a 26 procesos en total, incluyendo gestión de eventos, acceso, solicitudes, etc. | Introducción de prácticas flexibles, adaptables y enfoque en valor, además de prácticas como gestión de activos, incidentes, y problemas |
+| **Evolución tecnológica** | Limitada, centrada en mainframes y sistemas básicos | Incorporación de tecnologías más avanzadas y estructuras de TI modernas | Alineación con tecnología moderna, virtualización, y tendencias de outsourcing | Enfoque en digitalización, transformación digital y nuevas tecnologías emergentes (cloud, AI, etc.) |
+| **Prácticas y principios** | Básico, sin formalización de principios    | Formalización de principios y mejores prácticas en gestión de TI | Introducción de principios como la mejora continua y la gestión del cambio | 7 principios rectores, énfasis en la colaboración y la transparencia, integración con nuevas metodologías de trabajo |
+| **Orientación al cliente** | Limitada, más centrada en TI interna      | Mayor enfoque en la entrega de servicios y satisfacción del cliente | Orientación al cliente, alineación con los objetivos del negocio | Centrado en la co-creación de valor con el cliente, mayor énfasis en la experiencia del usuario y resultados de negocio |
+
+
+- ITIL es una biblioteca de infraestructura de tecnología de la información que proporciona una visión integral de la gestión de servicios de TI.
+- ITIL ha evolucionado desde la versión 1 con más de 40 publicaciones, pasando por la versión 2 que consolidó estas en 10, la versión 3 que introdujo el ciclo de vida del servicio y la versión 4 que incorpora metodologías ágiles y DevOps.
+
+## Provee
+
+Proporciona guías de calidad para la prestación de servicios de IT además de los procesos, funciones y otras competencias necesarias para sustentarlos.
+
+Características que contribuyen a entregar valor al negocio:
+- Vendedor neutral: aplicables a cualquier organización de IT.
+- Sin prescripción: prácticas que pueden ser aplicadas a todo tipo de organización.
+- Mejor Práctica: presenta experiencias y conocimiento de los mejores proveedores de servicio en el mundo.
+
+- **ITIL provee mapas de procesos y sinergia con otros frameworks de mejores prácticas como COBIT.**
+
+- Ud. decide como usar y aplicar ITIL
+- Ud. determina como ITIL moldeará su organización y la adminisitración de los servicios basado en sus requerimientos de negocio y prioridades.
+
+## Beneficios de Implementar ITIL
+
+- Implementar ITIL asegura que los servicios de TI entreguen valor a los clientes, integrando la estrategia del servicio con la del negocio y las necesidades del cliente. 
+- Permite medir, monitorear y optimizar los servicios de TI, gestionar inversiones y presupuestos, y manejar riesgos, conocimientos, competencias y recursos de manera eficiente.
+
+
+
+
+
+
+
 
 
 
