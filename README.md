@@ -422,7 +422,7 @@ La gestión de servicios es un conjunto de habilidades organizacionales especial
 - **Optimización de Flujos de Trabajo**: Implementa técnicas de mejora continua para optimizar los flujos de trabajo y eliminar desperdicios.
 - **Automatización**: Utiliza herramientas de automatización para reducir el esfuerzo manual y aumentar la eficiencia.
 
-Estos enfoques se complementan con los siete principios rectores de ITIL v4:
+Estos enfoques se complementan con los siete principios Guia (o rectores) de ITIL v4:
 
 1. **Enfocarse en el valor**
 2. **Empezar donde estás**
@@ -432,10 +432,109 @@ Estos enfoques se complementan con los siete principios rectores de ITIL v4:
 6. **Mantenerlo simple y práctico**
 7. **Optimizar y automatizar**
 
+## Beneficios de los Enfoques de ITIL v4
+
+- **Flexibilidad**: Adapta la gestión de servicios a las necesidades específicas de la organización y su entorno.
+- **Eficiencia**: Mejora la eficiencia operativa mediante la optimización de recursos y procesos.
+- **Valor**: Asegura la creación de valor constante para los clientes y las partes interesadas.
+
+**Factores Externos (modelo PESTLE):**
+Estas dimensiones están influenciadas por factores políticos, económicos, sociales, tecnológicos, legales y ambientales (modelo PESTLE).
 
 
+# Sistema de Valor del Servicio (SVS)
+
+El Sistema de Valor del Servicio de ITIL v4 muestra cómo los diferentes componentes y actividades de una organización trabajan juntos para facilitar la creación de valor a través de servicios.
+
+**Componentes del SVS**:
+- **Principios Guia (o rectores)**: Siete principios que guían la toma de decisiones y las acciones dentro del sistema.
+- **Gobernanza**: La forma en que una organización se dirige y controla.
+- **Cadena de valor del servicio**: Un modelo operativo que describe las actividades clave necesarias para responder a la demanda y facilitar la creación de valor.
+- **Prácticas**: Conjuntos de recursos organizacionales diseñados para realizar un trabajo o lograr un objetivo.
+- **Mejora continua**: Una actividad recurrente que las organizaciones realizan en todos los niveles para asegurar que el rendimiento de los servicios y productos se mantenga alineado con las expectativas cambiantes.
+
+# Los Siete Principios Guia (o Rectores)
+
+Estos principios proporcionan una guía para las organizaciones en todas las circunstancias, independientemente de los cambios en sus objetivos, estrategias, tipo de trabajo o estructura de gestión:
+
+1. **Enfocarse en el valor**: Todo lo que hace una organización debe vincularse directa o indirectamente al valor para sus partes interesadas.
+2. **Empezar donde estás**: No comenzar desde cero, sino evaluar el estado actual y decidir qué se puede reutilizar para avanzar.
+3. **Progresar iterativamente con retroalimentación**: Dividir el trabajo en secciones manejables, iterar y mejorar continuamente.
+4. **Colaborar y promover la visibilidad**: Involucrar a las partes interesadas y mejorar la transparencia.
+5. **Pensar y trabajar de manera holística**: Entender cómo todas las partes de la organización trabajan juntas en un sistema de servicios.
+6. **Mantenerlo simple y práctico**: Evitar la complejidad innecesaria y buscar la simplicidad en el diseño de procesos y servicios.
+7. **Optimizar y automatizar**: Utilizar la tecnología para realizar tareas de la manera más eficiente posible, reduciendo el esfuerzo manual.
+
+# Gobierno en ITIL
+
+El gobierno en ITIL es el marco jerárquico que establece cómo se realizarán las actividades dentro de la organización. El gobierno asegura el cumplimiento de políticas y procedimientos, evaluando, dirigiendo y supervisando la organización para cumplir con los objetivos y estrategias establecidas.
+
+- **Evaluar**: evalúa a la organización regularmente a medida que las necesidades de los interesados y las circunstancias externas evolucionan.
+- **Dirigir**: asigna la responsabilidad y dirige la preparación y la implementación de la estrategia y las políticas de la organización. Las estrategias establecen la dirección y prioridades, la inversión futura. Establecen los requisitos de comportamiento, cuando sea relevante, los proveedores, socios y otras partes interesadas.
+- **Supervizar**: supervisa el desempeño de la organización y sus prácticas, productos y servicios. El propósito de esto es asegurar que el desempeño esté de acuerdo con las políticas y la dirección.
+
+# Sistema de valor de servicio 
+
+La cadena de valor del servicio es el modelo que señala las actividades claves y necesarias para responder a la demanda y promover la creación y gestión de productos y servicios. Incluye seis actividades: planear, mejorar, involucrar, diseñar y transicionar, obtener y construir, y entregar y soportar.
+
+## Meta y Objetivos
+
+- **Revisar, analizar y recomendar** sobre las “oportunidades de mejora” en cada una de las fases del ciclo de vida.
+- **Verificar y analizar** los resultados alcanzados en los niveles de servicio.
+- **Identificar e implementar** actividades individuales para mejorar la calidad y también la eficiencia y efectividad de los procesos.
+- **Aplicar el Gobierno de IT (IT Governance)** el cual provee imparcialidad, transparencia y responsabilidad dentro de la organización.
+- **Implementar el Ciclo de Deming (PHVA)** para la mejora de los servicios de IT
+  
+## Valor para el Negocio
+
+- **Mejoras**: Resultados que presentan un incremento comparados con su estado previo, expresado en porcentaje.
+- **Beneficios**: Resultados que presentan un incremento comparados con suestado previo, expresado en términos monetarios.
+- **ROI (Retorno de Inversión)**: Diferencia entre los beneficios logrados y la cantidad desembolsada para lograr tal beneficio.
+- **VOI (Valor de Inversión)**: Valor adicional generado por la creación de beneficios que incluyen resultados a largo plazo o no monetarios.
 
 
+# Mejora continua
+
+- El Modelo de Mejora Continua que proporciona un enfoque estructurado para implementar las mejoras
+- La actividad de “Mejorar” en la Cadena de Valor del Servicio.
+- La Práctica de mejora Continua que dá soporte a la organización en el día a día.
+- El modelo de mejora continua se aplica al SVS en su totalidad, así como a todos los productos, servicios, componentes de servicio y relaciones de la organización.
+
+## Proceso de mejora continua
+
+- **Caso de Negocio**: Articular las razones necesarias para llevar adelante una iniciativa de mejora de un servicio o proceso y justificar su toma de decisión.
+- **Linea Base (Baseline)**: Se debe establecer puntos de partida para contrastar y resaltar los resultados de la mejora.
+
+- **Métricas**: Es una escala de medición definida en términos de un estandar
+- Metricas Tenológicas: Basada en los componentes y aplicaciones.
+- Métricas de Procesos: Capturadas mediante KPIs y CSFs
+- Métricas de Servicio: Resultado de un servicio de inicio a fin.
+
+- **Factor Crítico de Exito (Critical Success Factor)**: Algo que tiene que suceder para que un proceso, un proyecto, un plan o un servicio de IT se ejecute correctamente.
+- **Indicador Clave de Performance**: (Key Performance Indicator): Se utiliza para medir el desempeño de un Proceso, Servicio o Actividad.
+Las Métricas están asociadas a un CSF el cual está compuesto por KPIs.
+
+Ejemplo:
+**CSF**: Proteger los servicios de IT de un cliente cuando se realiza un cambio
+**KPI 1**: Reducción porcentual de cambios fallidos.
+**KPI 2**: Reducción porcentual de cambios que producen incidentes
+
+**¿Cómo mantenerel impulso?**
+¿Cúal es la visión? = Visión, Misión, Metas y Objetivos del Negocio
+¿Cúal es la situación actual? = Evaluaciones de fondo
+¿Cúal es la situación deseada? = Definir objetivos medibles
+¿Cómo conseguirla? = Definir plan de mejora
+Tomas medidas = Ejecutar acciones de mejora
+¿Se ha conseguido? = Medidas y métricas
+**¿Cómo mantener el impulso?**
+
+# Mejora Continua del Servicio (CSI)
+
+- **Definir la Vision**:
+- **Registrar la situación actual**:
+- **Determinar objetivos**:
+- **Planificar**: 
+- **Verificar**: 
 
 
 
