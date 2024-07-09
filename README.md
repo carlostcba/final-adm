@@ -1,20 +1,20 @@
-## Buenas Prácticas
+## Buenas Practicas
 - **Definición**: Son métodos y técnicas aceptadas dentro de una industria como adecuadas para cumplir con sus principales objetivos y requisitos legales.
-- **Objetivo**: Aseguran que las organizaciones cumplan con los estándares mínimos necesarios para operar de manera efectiva y conforme a las regulaciones.
-- **Ejemplo**: Utilizar protocolos de seguridad estándar para proteger los datos de los clientes.
+- **Objetivo**: Aseguran que las organizaciones cumplan con los estandares mínimos necesarios para operar de manera efectiva y conforme a las regulaciones.
+- **Ejemplo**: Utilizar protocolos de seguridad estandar para proteger los datos de los clientes.
 
-## Mejores Prácticas
+## Mejores Practicas
 - **Definición**: Son métodos y técnicas que han demostrado ser superiores a otras alternativas porque producen mejores resultados.
 - **Objetivo**: Optimizar el rendimiento, la eficiencia y la efectividad, y establecerse como un modelo a seguir dentro de la industria.
 - **Ejemplo**: Implementar un sistema de gestión de seguridad de la información certificado bajo ISO 27001, que no solo cumple con los requisitos mínimos, sino que establece un marco para la mejora continua de la seguridad de la información.
 
-Mientras que las buenas prácticas son las prácticas aceptadas y adecuadas, las mejores prácticas son aquellas que se consideran las más efectivas y eficientes para alcanzar los objetivos de la industria y mejorar continuamente.
+Mientras que las buenas practicas son las practicas aceptadas y adecuadas, las mejores practicas son aquellas que se consideran las mas efectivas y eficientes para alcanzar los objetivos de la industria y mejorar continuamente.
 
 # Norma Técnica
 
 - Una **norma técnica** es un documento aprobado por un organismo reconocido que establece especificaciones técnicas precisas para ser usadas como guías para el correcto desarrollo de una actividad. Estas normas determinan los requisitos que deben cumplir ciertos productos, procesos o servicios.
 
-- Las normas técnicas se elaboran por consenso entre fabricantes, administración, consumidores, entes profesionales, centros de investigación, etc., y se basan en los resultados de la experiencia, las mejores prácticas y el desarrollo tecnológico.
+- Las normas técnicas se elaboran por consenso entre fabricantes, administración, consumidores, entes profesionales, centros de investigación, etc., y se basan en los resultados de la experiencia, las mejores practicas y el desarrollo tecnológico.
 
 - **Consensuadas** Acuerdo entre todos los involucrados
 - **Exactas y no ambiguas** : Definiciones y descripciones exactas. Clara redacción, concisa y no deja lugar a multiples interpretaciones.
@@ -27,20 +27,20 @@ Mientras que las buenas prácticas son las prácticas aceptadas y adecuadas, las
 Estas características aseguran que las normas técnicas sean útiles y confiables para su aplicación en diversas industrias y sectores.
 
 - **ISO 27001** : es una norma internacional que especifica los requisitos para establecer, implementar, mantener y mejorar un Sistema de Gestión de Seguridad de la Información (SGSI). Su objetivo principal es proteger la confidencialidad, integridad y disponibilidad de la información mediante la aplicación de un proceso de gestión de riesgos.
-- **ISO 27002** : complementa la ISO 27001 proporcionando directrices de mejores prácticas sobre los controles de seguridad de la información que se deben implementar. Incluye una serie de controles, como políticas de seguridad, organización de la seguridad, gestión de activos, control de acceso y criptografía, entre otros.
+- **ISO 27002** : complementa la ISO 27001 proporcionando directrices de mejores practicas sobre los controles de seguridad de la información que se deben implementar. Incluye una serie de controles, como políticas de seguridad, organización de la seguridad, gestión de activos, control de acceso y criptografía, entre otros.
 
 - **PCI DSS (Payment Card Industry Data Security Standard)** : es un conjunto de requisitos diseñados para asegurar que todas las empresas que procesan, almacenan o transmiten información de tarjetas de crédito mantengan un entorno seguro. Incluye medidas de control como la protección de datos almacenados, cifrado de transmisión de datos de titulares de tarjetas, y monitoreo y pruebas regulares de redes.
-- **PCI PA-DSS (Payment Application Data Security Standard)** : se aplica a los desarrolladores de aplicaciones de pago y está destinado a garantizar que las aplicaciones de pago soporten la conformidad con PCI DSS. Se enfoca en la seguridad de las aplicaciones de software que manejan datos de pago.
+- **PCI PA-DSS (Payment Application Data Security Standard)** : se aplica a los desarrolladores de aplicaciones de pago y esta destinado a garantizar que las aplicaciones de pago soporten la conformidad con PCI DSS. Se enfoca en la seguridad de las aplicaciones de software que manejan datos de pago.
 
-- **Sarbanes Oxley** : es una ley de los Estados Unidos que establece nuevas o mejoradas normas para la administración y el consejo de las empresas públicas. La ley fue promulgada en respuesta a varios grandes escándalos financieros corporativos. Sus secciones más relevantes en el contexto de TI son las que tratan sobre la responsabilidad de la administración y los controles internos, como la Sección 404, que requiere que las empresas mantengan un control interno adecuado y reporten sobre la efectividad de esos controles.
+- **Sarbanes Oxley** : es una ley de los Estados Unidos que establece nuevas o mejoradas normas para la administración y el consejo de las empresas públicas. La ley fue promulgada en respuesta a varios grandes escandalos financieros corporativos. Sus secciones mas relevantes en el contexto de TI son las que tratan sobre la responsabilidad de la administración y los controles internos, como la Sección 404, que requiere que las empresas mantengan un control interno adecuado y reporten sobre la efectividad de esos controles.
   
 - **Ley de protección de datos personales (25326)** : protege los datos personales registrados en archivos, registros, bancos de datos, u otros medios técnicos. Establece principios para la recolección y tratamiento de datos personales, derechos de los titulares de los datos, obligaciones de los responsables de los archivos y las sanciones por incumplimiento. Su objetivo principal es garantizar la privacidad de los individuos y proteger sus datos personales contra usos no autorizados.
   
 - **BCRA “A” 4609 / 5374 / 6375** Estas comunicaciones del Banco Central de la República Argentina (BCRA) establecen normas y procedimientos específicos para las entidades financieras en relación con la seguridad de la información y la prevención del fraude. Incluyen directrices sobre la gestión de riesgos tecnológicos, controles internos, y la implementación de medidas de seguridad para proteger la información y los sistemas críticos de las entidades financieras.
   
-- **COBIT 5 (Control Objectives for Information and Related Technologies)** :  es un marco de gobierno y gestión de TI desarrollado por ISACA. Proporciona un modelo integral que ayuda a las organizaciones a alcanzar sus objetivos estratégicos mediante la gestión y el gobierno efectivo de la tecnología de la información. COBIT 5 cubre todas las áreas de TI y alinea las metas de TI con los objetivos del negocio.
+- **COBIT 5 (Control Objectives for Information and Related Technologies)** :  es un marco de gobierno y gestión de TI desarrollado por ISACA. Proporciona un modelo integral que ayuda a las organizaciones a alcanzar sus objetivos estratégicos mediante la gestión y el gobierno efectivo de la tecnología de la información. COBIT 5 cubre todas las areas de TI y alinea las metas de TI con los objetivos del negocio.
   
-- **ITIL v4 (Information Technology Infrastructure Library)** : es un conjunto de prácticas para la gestión de servicios de TI (ITSM) que se enfoca en la alineación de los servicios de TI con las necesidades del negocio. ITIL v4 introduce un enfoque más flexible y adaptable, incorporando principios como la co-creación de valor, la gestión de servicios como un sistema y la mejora continua. Su objetivo es mejorar la eficiencia, efectividad y satisfacción del cliente en la entrega de servicios de TI.
+- **ITIL v4 (Information Technology Infrastructure Library)** : es un conjunto de practicas para la gestión de servicios de TI (ITSM) que se enfoca en la alineación de los servicios de TI con las necesidades del negocio. ITIL v4 introduce un enfoque mas flexible y adaptable, incorporando principios como la co-creación de valor, la gestión de servicios como un sistema y la mejora continua. Su objetivo es mejorar la eficiencia, efectividad y satisfacción del cliente en la entrega de servicios de TI.
 
 ## Metodología PHVA (Plan-Do-Check-Act)
 
@@ -77,14 +77,14 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 **Cultura Organizacional:** Cambiar la mentalidad "mindset" (lo hago asi por que es como funciona aca) de los empleados hacia la aceptación y comprensión de las nuevas políticas.
 **Políticas y Procedimientos:** Establecer códigos de conducta para empleados y proveedores, políticas de denuncia de irregularidades, politicas de compliance (dadivas que entran en lo juridico quizas).
 **Entrenamiento y Comunicación:** Proveer entrenamiento obligatorio y comunicar regularmente para fortalecer el mensaje.
-**Procesos Claves de Compliance:** Contrastar políticas contra mejores prácticas, llevar a cabo la debida diligencia y revisar continuamente las políticas.
+**Procesos Claves de Compliance:** Contrastar políticas contra mejores practicas, llevar a cabo la debida diligencia y revisar continuamente las políticas.
 **Relevamiento de Riesgos:** Evaluar y mitigar riesgos clave de compliance.
 **Recursos de Compliance:** Contar con un equipo dedicado y experimentado para implementar y ejecutar las políticas de compliance de manera efectiva.
 
 # SLA (Service Level Agreement) - Definición y Significado
 
-- Un SLA es un contrato entre un proveedor de servicios y sus clientes internos o externos que documenta qué serviciosproporcionará el proveedor y define los estándares de servicio que el proveedor está obligado a cumplir.
-- Ejemplo: una tienda de comercio electrónico firma un SLA con un fabricante para crear sus camisetas. El SLA estipula los servicios prestados por el fabricante a la tienda de comercio electrónico individual. El acuerdo incluye aspectos como la calidad de los materiales, la cantidad de camisetas que se producirán en un tiempo determinado y las fechas de entrega.
+- Un SLA es un contrato entre un proveedor de servicios y sus clientes internos o externos que documenta qué serviciosproporcionara el proveedor y define los estandares de servicio que el proveedor esta obligado a cumplir.
+- Ejemplo: una tienda de comercio electrónico firma un SLA con un fabricante para crear sus camisetas. El SLA estipula los servicios prestados por el fabricante a la tienda de comercio electrónico individual. El acuerdo incluye aspectos como la calidad de los materiales, la cantidad de camisetas que se produciran en un tiempo determinado y las fechas de entrega.
 
 - Un SLA es un acuerdo entre un cliente y un proveedor que establece las pautas y métricas para el nivel de servicio esperado.
 - Ejemplo: Si el cliente contrata un servicio con un SLA del 99.9% de disponibilidad, significa que el proveedor debe garantizar que el servicio esté activo y funcionando el 99.9% del tiempo.
@@ -92,7 +92,7 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 ## Como se compone un SLA
 
 - **Servicio**: Especifica las condiciones de la disponibilidad del servicio, ventanas de tiempo del servicio.
-- **Administrativo**: Define las métricas a utilizar y el método de medición, resolución de disputas, cláusulas de indemnización en caso de incumplimiento, actualizacion del SLA.
+- **Administrativo**: Define las métricas a utilizar y el método de medición, resolución de disputas, clausulas de indemnización en caso de incumplimiento, actualizacion del SLA.
 
 ## Como se compone un SLA
 
@@ -114,14 +114,14 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 
 ## Que es CMI
 
-Es una herramienta que muestra continuamente cuando una compañía y sus empleados alcanzan los resultados definidos por el plan estratégico; además permite detectar las desviaciones y expresar los objetivos e iniciativas necesarios para encausarlo.
+Es una herramienta que muestra continuamente cuando una compañía y sus empleados alcanzan los resultados definidos por el plan estratégico; ademas permite detectar las desviaciones y expresar los objetivos e iniciativas necesarios para encausarlo.
 
 - **Financiera** Identificar algunas métricas financieras relevantes (cash-flow, crecimiento de ventas, EBITDA, etc y responder la pregunta: ¿Cómo nos ven los accionistas?
 - **Cliente** ¿Cómo nos ven nuestos clientes? ¿Qué es importante para ellos?
 - **Procesos Internos** Identificar las métricas en las que debemos sobresalir, ej: costo por unidad, nuevos productos, etc
 - **Aprendisaje y Crecimiento** ¿Cómo podemos seguir mejorando, crear valor e innovar?
 
-**Características** pretende ayudar a los directivos, en diferentes niveles a tener una visión de la situación de su departamento y cómo su trabajo está repercutiendo en su organización. Algunos de los indicadores principales (KPIs) son: 
+**Características** pretende ayudar a los directivos, en diferentes niveles a tener una visión de la situación de su departamento y cómo su trabajo esta repercutiendo en su organización. Algunos de los indicadores principales (KPIs) son: 
 - Peticiones
 - Incidencias
 - Disponibilidad
@@ -131,7 +131,7 @@ Es una herramienta que muestra continuamente cuando una compañía y sus emplead
 ¿Qué es un KPI?
 **KPI (Key Performance Indicator)** o Indicador Clave de Rendimiento es una métrica utilizada para evaluar el éxito de una organización, un departamento, un proyecto o una iniciativa específica en alcanzar sus objetivos estratégicos y operativos. Los KPIs son herramientas esenciales para la gestión empresarial, ya que proporcionan una visión clara del rendimiento y permiten tomar decisiones informadas.
 
- ¿Cuáles son las principales herramientas de gestión mencionadas en la clase y su propósito?
+ ¿Cuales son las principales herramientas de gestión mencionadas en la clase y su propósito?
  
 **Respuesta:** Las principales herramientas de gestión mencionadas son:
 - **Kanban (Tarjeta):** Para organizar el trabajo diario en equipos.
@@ -143,7 +143,7 @@ Es una herramienta que muestra continuamente cuando una compañía y sus emplead
 # Unidad 2 : Gobierno de IT
 
 **Definición de Gobierno de IT**:
-- El gobierno de IT son las acciones que realiza el área de IT en coordinación con la organización para gestionar los recursos físicos y tecnológicos de manera eficiente, alineando las decisiones con los objetivos del negocio y minimizando riesgos.
+- El gobierno de IT son las acciones que realiza el area de IT en coordinación con la organización para gestionar los recursos físicos y tecnológicos de manera eficiente, alineando las decisiones con los objetivos del negocio y minimizando riesgos.
 - Asegura que la inversión en tecnología sea óptima, que esté alineada con la estrategia del negocio y que entregue valor bajo límites de riesgos aceptables.
 - Considera la cultura organizacional, la estructura organizacional y la madurez del gobierno de IT para implementar estrategias efectivas.
 
@@ -153,8 +153,8 @@ Es una herramienta que muestra continuamente cuando una compañía y sus emplead
 
 **Provee**:
 
-- Un marco de estructuras y procesos mediante el cual las Organizaciones pueden alinear la estrategia del área de IT con la estratégia del negocio.
-- Un conjunto de métodos y prácticas que permiten establecer:
+- Un marco de estructuras y procesos mediante el cual las Organizaciones pueden alinear la estrategia del area de IT con la estratégia del negocio.
+- Un conjunto de métodos y practicas que permiten establecer:
 - Criterios de información requeridos por el negocio.
 - Procesos de negocio.
 - Recursos a utilizar.
@@ -176,9 +176,9 @@ Es una herramienta que muestra continuamente cuando una compañía y sus emplead
 - Etapa 1: Ad hoc (procesos informales, inversión basada en costumbre).
 - Etapa 2: Fragmentado (procesos formalizados parcialmente).
 - Etapa 3: Consistencia (procesos maduros, gobierno de IT instaurado).
-- Etapa 4: Buenas prácticas (procesos optimizados).
+- Etapa 4: Buenas practicas (procesos optimizados).
 
-## Competencias Básicas del Gobierno de IT según el Modelo Operacional de IT
+## Competencias Basicas del Gobierno de IT según el Modelo Operacional de IT
 
 - **Gestión de la Demanda -  Gestión de las relaciones - Gestión financiera - Gestión del portafolio - Gestión de la Arquitectura -Estrategia de IT**
 
@@ -187,15 +187,15 @@ Es una herramienta que muestra continuamente cuando una compañía y sus emplead
 - Establecer relaciones colaborativas efectivas con proveedores y las partes interesadas del negocio.
 - Establecer politicas, standards, modelos y procesos para la gestión de IT como un activo de la organización.
 
-**Áreas de enfoque del gobierno de IT**:
+**areas de enfoque del gobierno de IT**:
 - **Alineación estratégica** Asegura que tanto los procesos de negocios como los de IT trabajen en conjunto.
-- **Entrega de valor** Asegura que el área de IT sea tan eficiente y eficaz como sea posible, Generalmente asociado a los costos.
+- **Entrega de valor** Asegura que el area de IT sea tan eficiente y eficaz como sea posible, Generalmente asociado a los costos.
 - **Gestión de riesgos**  Permite que la empresa visualice los posibles riesgos para el negocio y suministra formas de minimizarlo. Determinar y mitigar los riesgos.
-- **Gestión de recursos** Gestiona, controla y monitorea los recursos humanos y tecnológicos del área (propios y de terceros) para que sean lo más óptima posible.
-- **Medición de desempeño** Usa indicadores que van mucho más allá de los criterios financieros, el Gobierno de IT asegura la medición y la evaluación precisa de los resultados del negocio.
+- **Gestión de recursos** Gestiona, controla y monitorea los recursos humanos y tecnológicos del area (propios y de terceros) para que sean lo mas óptima posible.
+- **Medición de desempeño** Usa indicadores que van mucho mas alla de los criterios financieros, el Gobierno de IT asegura la medición y la evaluación precisa de los resultados del negocio.
 
 # Madurez del Gobierno de IT
-- **Ad Hoc – Fragmentada – Consistencia – Mejores Prácticas**
+- **Ad Hoc – Fragmentada – Consistencia – Mejores Practicas**
 
 Sin una efectiva medición de desempeño, los otros cuatro aspectos del Gobierno de IT es muy probable que fallen.
 
@@ -218,22 +218,22 @@ Sin una efectiva medición de desempeño, los otros cuatro aspectos del Gobierno
 
 Un factor crítico es algo que debe estar presente para que el gobierno de IT funcione, como conocer los objetivos, tener herramientas adecuadas, establecer mecanismos de medición y control, adecuar soluciones a medida y alinearse con las iniciativas en curso.
 
-## Organización del Área de IT
-- La organización del área de IT es fundamental en cualquier empresa. El organigrama define los roles y la cantidad de personal necesario. Dependiendo del tamaño de la empresa, puede ser simple o complejo.
+## Organización del area de IT
+- La organización del area de IT es fundamental en cualquier empresa. El organigrama define los roles y la cantidad de personal necesario. Dependiendo del tamaño de la empresa, puede ser simple o complejo.
 - Un buen organigrama debe estructurarse pensando en las necesidades de la organización para los próximos cinco años, aunque esto puede reducirse a tres años debido a los cambios tecnológicos.
 
-## Áreas Comunes en el Departamento de IT
+## areas Comunes en el Departamento de IT
 - **Administración de Servidores**: Encargados de gestionar las plataformas y servidores.
 - **Base de Datos**: Coordinadores o gerentes de bases de datos.
-- **Desarrollo**: Incluye áreas como desarrollo, QA, y manejo de proveedores.
-- **Microinformática**: Mantenimiento de endpoints (PCs, notebooks, impresoras), mesa de ayuda, y gestión de tickets.
+- **Desarrollo**: Incluye areas como desarrollo, QA, y manejo de proveedores.
+- **Microinformatica**: Mantenimiento de endpoints (PCs, notebooks, impresoras), mesa de ayuda, y gestión de tickets.
 - **Infraestructura**: Administración de servidores, bases de datos, backend, sistemas operativos, y soluciones de backup.
-- **Seguridad Informática**: Gestión de la seguridad tecnológica, firewalls, roles y accesos, y seguridad física.
+- **Seguridad Informatica**: Gestión de la seguridad tecnológica, firewalls, roles y accesos, y seguridad física.
 - **Administración de Proyectos**: PMO (Project Management Office), gerentes de proyectos.
 
 ## Estructuras Organizacionales
 - **Basada en Proyectos**: Empresas que brindan servicios profesionales a clientes externos, con una estructura flexible y adaptable.
-- **Estructura Federal**: Un área centralizada de IT para soporte de infraestructura y aplicaciones corporativas, con cada unidad de negocio teniendo sus propios desarrollos y presupuestos.
+- **Estructura Federal**: Un area centralizada de IT para soporte de infraestructura y aplicaciones corporativas, con cada unidad de negocio teniendo sus propios desarrollos y presupuestos.
 - **Descentralizada**: Por unidad de negocio, grupo operativo, subsidiaria o geografía, con cada filial teniendo su propio CIO y presupuesto independiente.
 - **Centralizada**: Depende de un único CIO o director de sistemas, con recursos y presupuestos centralizados a nivel corporativo, implementando una estrategia única en todas las filiales.
 
@@ -244,11 +244,11 @@ Un factor crítico es algo que debe estar presente para que el gobierno de IT fu
   - **Consultado**: Quien tiene el conocimiento necesario y con quien se consulta durante la ejecución de la tarea.
   - **Informado**: Quien se mantiene informado sobre el avance y los resultados de la tarea.
 
-**¿Qué es la matriz RASI y cuáles son sus componentes?**
+**¿Qué es la matriz RASI y cuales son sus componentes?**
 **Es una herramienta para la administración de proyectos y tareas, que incluye Responsable, Aprobador, Consultado e Informado.**
 
 ## Implementación del Gobierno de IT
-- **Relevar el Área de IT**: Identificar brechas, definir nuevos roles y establecer un plan de acción.
+- **Relevar el area de IT**: Identificar brechas, definir nuevos roles y establecer un plan de acción.
 - **Preparar el Marco de Referencia**: Definir roles y responsabilidades, crear canales de comunicación y establecer la estructura de gestión.
 - **Diseñar Procesos de Gobierno de IT**: Definir políticas, procesos, KPIs y requerimientos de reportes.
 - **Implementar Herramientas de Soporte**: Herramientas para la recolección de datos, reportes y administración.
@@ -266,44 +266,44 @@ Un factor crítico es algo que debe estar presente para que el gobierno de IT fu
 
 **Orígenes y Evolución de ITIL:**
 
-ITIL fue desarrollado a fines de los años 80 por la agencia de telecomunicaciones y computación CSTA en el Reino Unido, en respuesta a la creciente demanda de servicios de TI. La versión 1 incluía más de 40 publicaciones sobre diversos aspectos de la gestión de servicios.
+ITIL fue desarrollado a fines de los años 80 por la agencia de telecomunicaciones y computación CSTA en el Reino Unido, en respuesta a la creciente demanda de servicios de TI. La versión 1 incluía mas de 40 publicaciones sobre diversos aspectos de la gestión de servicios.
 
-La versión 2, lanzada en 1999, consolidó estas publicaciones en 10, enfocándose en procesos y mejores prácticas. La versión 3, introducida en 2007, añadió el concepto del ciclo de vida del servicio, dividiéndolo en cinco fases: estrategia del servicio, diseño del servicio, transición del servicio, operación del servicio y mejora continua del servicio.
+La versión 2, lanzada en 1999, consolidó estas publicaciones en 10, enfocandose en procesos y mejores practicas. La versión 3, introducida en 2007, añadió el concepto del ciclo de vida del servicio, dividiéndolo en cinco fases: estrategia del servicio, diseño del servicio, transición del servicio, operación del servicio y mejora continua del servicio.
 
-En 2019, se lanzó la versión 4, que incorpora metodologías ágiles y DevOps, enfocándose en la colaboración e integración de actores y en conceptos como costos, resultados, riesgos y valor.
+En 2019, se lanzó la versión 4, que incorpora metodologías agiles y DevOps, enfocandose en la colaboración e integración de actores y en conceptos como costos, resultados, riesgos y valor.
 
 - ITIL es una biblioteca de infraestructura de tecnología de la información que proporciona una visión integral de la gestión de servicios de TI.
-- ITIL ha evolucionado desde la versión 1 con más de 40 publicaciones, pasando por la versión 2 que consolidó estas en 10, la versión 3 que introdujo el ciclo de vida del servicio y la versión 4 que incorpora metodologías ágiles y DevOps.
+- ITIL ha evolucionado desde la versión 1 con mas de 40 publicaciones, pasando por la versión 2 que consolidó estas en 10, la versión 3 que introdujo el ciclo de vida del servicio y la versión 4 que incorpora metodologías agiles y DevOps.
 
 ## Comparación de ITIL
 
 | **Aspecto**             | **ITIL v1**                                 | **ITIL v2**                                 | **ITIL v3**                                 | **ITIL v4**                                 |
 |-------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
 | **Lanzamiento**         | 1989                                       | 2000                                       | 2007                                       | 2019                                       |
-| **Estructura**          | (40) 31 libros cubriendo diferentes áreas       | (10) 7 libros principales divididos en dos conjuntos (Soporte de Servicio y Entrega de Servicio) | 5 libros principales (Ciclo de Vida del Servicio) | 4 dimensiones del manejo de servicios y 34 prácticas - 14 Gestion General - 17 Gestion de Servicios - 3 Gestion Tecnica  |
-| **Enfoque principal**   | Mejores prácticas para gestión de servicios de TI | Mejora en la eficiencia operativa y gestión de servicios | Ciclo de vida del servicio, integrando estrategia, diseño, transición, operación y mejora continua | Integración con prácticas modernas (Agile, DevOps, Lean) y enfoque en la creación de valor |
-| **Procesos**            | Básico, no estructurado formalmente        | Introducción de procesos definidos como Gestión de Incidentes, Problemas, Cambios, Configuración, etc. | Expansión a 26 procesos en total, incluyendo gestión de eventos, acceso, solicitudes, etc. | Introducción de prácticas flexibles, adaptables y enfoque en valor, además de prácticas como gestión de activos, incidentes, y problemas |
-| **Evolución tecnológica** | Limitada, centrada en mainframes y sistemas básicos | Incorporación de tecnologías más avanzadas y estructuras de TI modernas | Alineación con tecnología moderna, virtualización, y tendencias de outsourcing | Enfoque en digitalización, transformación digital y nuevas tecnologías emergentes (cloud, AI, etc.) |
-| **Prácticas y principios** | Básico, sin formalización de principios    | Formalización de principios y mejores prácticas en gestión de TI | Introducción de principios como la mejora continua y la gestión del cambio | 7 principios rectores, énfasis en la colaboración y la transparencia, integración con nuevas metodologías de trabajo |
-| **Orientación al cliente** | Limitada, más centrada en TI interna      | Mayor enfoque en la entrega de servicios y satisfacción del cliente | Orientación al cliente, alineación con los objetivos del negocio | Centrado en la co-creación de valor con el cliente, mayor énfasis en la experiencia del usuario y resultados de negocio |
+| **Estructura**          | (40) 31 libros cubriendo diferentes areas       | (10) 7 libros principales divididos en dos conjuntos (Soporte de Servicio y Entrega de Servicio) | 5 libros principales (Ciclo de Vida del Servicio) | 4 dimensiones del manejo de servicios y 34 practicas - 14 Gestion General - 17 Gestion de Servicios - 3 Gestion Tecnica  |
+| **Enfoque principal**   | Mejores practicas para gestión de servicios de TI | Mejora en la eficiencia operativa y gestión de servicios | Ciclo de vida del servicio, integrando estrategia, diseño, transición, operación y mejora continua | Integración con practicas modernas (Agile, DevOps, Lean) y enfoque en la creación de valor |
+| **Procesos**            | Basico, no estructurado formalmente        | Introducción de procesos definidos como Gestión de Incidentes, Problemas, Cambios, Configuración, etc. | Expansión a 26 procesos en total, incluyendo gestión de eventos, acceso, solicitudes, etc. | Introducción de practicas flexibles, adaptables y enfoque en valor, ademas de practicas como gestión de activos, incidentes, y problemas |
+| **Evolución tecnológica** | Limitada, centrada en mainframes y sistemas basicos | Incorporación de tecnologías mas avanzadas y estructuras de TI modernas | Alineación con tecnología moderna, virtualización, y tendencias de outsourcing | Enfoque en digitalización, transformación digital y nuevas tecnologías emergentes (cloud, AI, etc.) |
+| **Practicas y principios** | Basico, sin formalización de principios    | Formalización de principios y mejores practicas en gestión de TI | Introducción de principios como la mejora continua y la gestión del cambio | 7 principios rectores, énfasis en la colaboración y la transparencia, integración con nuevas metodologías de trabajo |
+| **Orientación al cliente** | Limitada, mas centrada en TI interna      | Mayor enfoque en la entrega de servicios y satisfacción del cliente | Orientación al cliente, alineación con los objetivos del negocio | Centrado en la co-creación de valor con el cliente, mayor énfasis en la experiencia del usuario y resultados de negocio |
 
 
 - ITIL es una biblioteca de infraestructura de tecnología de la información que proporciona una visión integral de la gestión de servicios de TI.
-- ITIL ha evolucionado desde la versión 1 con más de 40 publicaciones, pasando por la versión 2 que consolidó estas en 10, la versión 3 que introdujo el ciclo de vida del servicio y la versión 4 que incorpora metodologías ágiles y DevOps.
+- ITIL ha evolucionado desde la versión 1 con mas de 40 publicaciones, pasando por la versión 2 que consolidó estas en 10, la versión 3 que introdujo el ciclo de vida del servicio y la versión 4 que incorpora metodologías agiles y DevOps.
 
 ## Provee
 
-Proporciona guías de calidad para la prestación de servicios de IT además de los procesos, funciones y otras competencias necesarias para sustentarlos.
+Proporciona guías de calidad para la prestación de servicios de IT ademas de los procesos, funciones y otras competencias necesarias para sustentarlos.
 
 Características que contribuyen a entregar valor al negocio:
 - Vendedor neutral: aplicables a cualquier organización de IT.
-- Sin prescripción: prácticas que pueden ser aplicadas a todo tipo de organización.
-- Mejor Práctica: presenta experiencias y conocimiento de los mejores proveedores de servicio en el mundo.
+- Sin prescripción: practicas que pueden ser aplicadas a todo tipo de organización.
+- Mejor Practica: presenta experiencias y conocimiento de los mejores proveedores de servicio en el mundo.
 
-- **ITIL provee mapas de procesos y sinergia con otros frameworks de mejores prácticas como COBIT.**
+- **ITIL provee mapas de procesos y sinergia con otros frameworks de mejores practicas como COBIT.**
 
 - Ud. decide como usar y aplicar ITIL
-- Ud. determina como ITIL moldeará su organización y la adminisitración de los servicios basado en sus requerimientos de negocio y prioridades.
+- Ud. determina como ITIL moldeara su organización y la adminisitración de los servicios basado en sus requerimientos de negocio y prioridades.
 
 ## Beneficios de Implementar ITIL
 
@@ -316,7 +316,7 @@ La gestión de servicios es un conjunto de habilidades organizacionales especial
 **Características de los Servicios:**
 
 **Intangibilidad:** Los servicios no son objetos físicos, sino resultados de procesos.
-**Inseparabilidad:** Se producen, venden y consumen simultáneamente.
+**Inseparabilidad:** Se producen, venden y consumen simultaneamente.
 **Heterogeneidad:** Cada servicio es una experiencia única, afectada por la relación entre proveedor y cliente.
 **Perecederos:** Los servicios no se pueden almacenar o conservar.
 
@@ -330,23 +330,23 @@ La gestión de servicios es un conjunto de habilidades organizacionales especial
 
 **Salida:** Un entregable tangible o intangible de una actividad o proceso.
 
-**Resultado:** El efecto que obtiene una parte interesada, habilitado por una o más salidas.
+**Resultado:** El efecto que obtiene una parte interesada, habilitado por una o mas salidas.
 
 **Ejemplo:**
-- **Salida:** Un álbum de fotos de una boda.
+- **Salida:** Un album de fotos de una boda.
 - **Resultado:** La conservación de recuerdos y la capacidad de rememorar momentos especiales.
 - 
-- La salida es un entregable tangible o intangible de una actividad o proceso, mientras que el resultado es el efecto que obtiene una parte interesada, habilitado por una o más salidas.
+- La salida es un entregable tangible o intangible de una actividad o proceso, mientras que el resultado es el efecto que obtiene una parte interesada, habilitado por una o mas salidas.
 
 ## Utilidad y Garantía
 
 - **Utilidad:** Funcionalidad de un producto o servicio para satisfacer una necesidad particular.
-- **Garantía:** Aseguramiento de que un producto o servicio cumplirá con los requerimientos acordados.
+- **Garantía:** Aseguramiento de que un producto o servicio cumplira con los requerimientos acordados.
 
 **Ejemplo Utilidad**: Zoom proporciona las funciones necesarias para realizar reuniones virtuales eficaces.
-**Ejemplo Garantía**: Zoom asegura que su servicio será confiable, seguro y estará disponible según lo acordado, proporcionando tranquilidad a los usuarios sobre el desempeño y la calidad del servicio.
+**Ejemplo Garantía**: Zoom asegura que su servicio sera confiable, seguro y estara disponible según lo acordado, proporcionando tranquilidad a los usuarios sobre el desempeño y la calidad del servicio.
 
-- Estos dos aspectos juntos aseguran que el servicio no solo cumple con las necesidades funcionales (utilidad) sino que también proporciona la confianza y seguridad (garantía) de que funcionará según lo prometido.
+- Estos dos aspectos juntos aseguran que el servicio no solo cumple con las necesidades funcionales (utilidad) sino que también proporciona la confianza y seguridad (garantía) de que funcionara según lo prometido.
 
 ## Gestión de Costos y Riesgos en ITIL
 
@@ -383,7 +383,7 @@ La gestión de servicios es un conjunto de habilidades organizacionales especial
 **Importancia**: Garantiza que las organizaciones cuenten con personas capacitadas y una cultura adecuada para lograr los objetivos de la gestión de servicios.
 
 **Cómo lo hace**:
-- **Capacitación y Desarrollo**: Implementa programas de formación continua para asegurar que el personal esté al día con las mejores prácticas y tecnologías.
+- **Capacitación y Desarrollo**: Implementa programas de formación continua para asegurar que el personal esté al día con las mejores practicas y tecnologías.
 - **Cultura Organizacional**: Fomenta una cultura de colaboración, responsabilidad y orientación al cliente.
 - **Estructuras de Gestión**: Establece estructuras claras de roles y responsabilidades para facilitar la toma de decisiones y la eficiencia operativa.
 
@@ -403,9 +403,9 @@ La gestión de servicios es un conjunto de habilidades organizacionales especial
 **Importancia**: Facilita la colaboración y la gestión de las dependencias externas para asegurar la entrega efectiva de servicios.
 
 **Cómo lo hace**:
-- **Selección de Proveedores**: Realiza evaluaciones rigurosas para seleccionar proveedores que cumplan con los estándares de la organización.
+- **Selección de Proveedores**: Realiza evaluaciones rigurosas para seleccionar proveedores que cumplan con los estandares de la organización.
 - **Gestión de Contratos**: Establece contratos claros y detallados que definan las expectativas y responsabilidades de todas las partes.
-- **Colaboración Continua**: Mantiene una comunicación abierta y frecuente con socios y proveedores para asegurar la alineación y resolver problemas rápidamente.
+- **Colaboración Continua**: Mantiene una comunicación abierta y frecuente con socios y proveedores para asegurar la alineación y resolver problemas rapidamente.
 
 ## 4. Flujos de Valor y Procesos
 
@@ -418,18 +418,18 @@ La gestión de servicios es un conjunto de habilidades organizacionales especial
 - Responden a eventos específicos: Mientras un proceso puede ser continuo o iterativo, éste debería responder a un disparador específico.
 
 **Cómo lo hace**:
-- **Mapeo de Procesos**: Documenta y analiza todos los procesos para identificar áreas de mejora.
+- **Mapeo de Procesos**: Documenta y analiza todos los procesos para identificar areas de mejora.
 - **Optimización de Flujos de Trabajo**: Implementa técnicas de mejora continua para optimizar los flujos de trabajo y eliminar desperdicios.
 - **Automatización**: Utiliza herramientas de automatización para reducir el esfuerzo manual y aumentar la eficiencia.
 
 Estos enfoques se complementan con los siete principios Guia (o rectores) de ITIL v4:
 
 1. **Enfocarse en el valor**
-2. **Empezar donde estás**
+2. **Empezar donde estas**
 3. **Progresar iterativamente con retroalimentación**
 4. **Colaborar y promover la visibilidad**
 5. **Pensar y trabajar de manera holística**
-6. **Mantenerlo simple y práctico**
+6. **Mantenerlo simple y practico**
 7. **Optimizar y automatizar**
 
 ## Beneficios de los Enfoques de ITIL v4
@@ -439,7 +439,7 @@ Estos enfoques se complementan con los siete principios Guia (o rectores) de ITI
 - **Valor**: Asegura la creación de valor constante para los clientes y las partes interesadas.
 
 **Factores Externos (modelo PESTLE):**
-Estas dimensiones están influenciadas por factores políticos, económicos, sociales, tecnológicos, legales y ambientales (modelo PESTLE).
+Estas dimensiones estan influenciadas por factores políticos, económicos, sociales, tecnológicos, legales y ambientales (modelo PESTLE).
 
 
 # Sistema de Valor del Servicio (SVS)
@@ -450,7 +450,7 @@ El Sistema de Valor del Servicio de ITIL v4 muestra cómo los diferentes compone
 - **Principios Guia (o rectores)**: Siete principios que guían la toma de decisiones y las acciones dentro del sistema.
 - **Gobernanza**: La forma en que una organización se dirige y controla.
 - **Cadena de valor del servicio**: Un modelo operativo que describe las actividades clave necesarias para responder a la demanda y facilitar la creación de valor.
-- **Prácticas**: Conjuntos de recursos organizacionales diseñados para realizar un trabajo o lograr un objetivo.
+- **Practicas**: Conjuntos de recursos organizacionales diseñados para realizar un trabajo o lograr un objetivo.
 - **Mejora continua**: Una actividad recurrente que las organizaciones realizan en todos los niveles para asegurar que el rendimiento de los servicios y productos se mantenga alineado con las expectativas cambiantes.
 
 # Los Siete Principios Guia (o Rectores)
@@ -458,20 +458,20 @@ El Sistema de Valor del Servicio de ITIL v4 muestra cómo los diferentes compone
 Estos principios proporcionan una guía para las organizaciones en todas las circunstancias, independientemente de los cambios en sus objetivos, estrategias, tipo de trabajo o estructura de gestión:
 
 1. **Enfocarse en el valor**: Todo lo que hace una organización debe vincularse directa o indirectamente al valor para sus partes interesadas.
-2. **Empezar donde estás**: No comenzar desde cero, sino evaluar el estado actual y decidir qué se puede reutilizar para avanzar.
+2. **Empezar donde estas**: No comenzar desde cero, sino evaluar el estado actual y decidir qué se puede reutilizar para avanzar.
 3. **Progresar iterativamente con retroalimentación**: Dividir el trabajo en secciones manejables, iterar y mejorar continuamente.
 4. **Colaborar y promover la visibilidad**: Involucrar a las partes interesadas y mejorar la transparencia.
 5. **Pensar y trabajar de manera holística**: Entender cómo todas las partes de la organización trabajan juntas en un sistema de servicios.
-6. **Mantenerlo simple y práctico**: Evitar la complejidad innecesaria y buscar la simplicidad en el diseño de procesos y servicios.
-7. **Optimizar y automatizar**: Utilizar la tecnología para realizar tareas de la manera más eficiente posible, reduciendo el esfuerzo manual.
+6. **Mantenerlo simple y practico**: Evitar la complejidad innecesaria y buscar la simplicidad en el diseño de procesos y servicios.
+7. **Optimizar y automatizar**: Utilizar la tecnología para realizar tareas de la manera mas eficiente posible, reduciendo el esfuerzo manual.
 
 # Gobierno en ITIL
 
-El gobierno en ITIL es el marco jerárquico que establece cómo se realizarán las actividades dentro de la organización. El gobierno asegura el cumplimiento de políticas y procedimientos, evaluando, dirigiendo y supervisando la organización para cumplir con los objetivos y estrategias establecidas.
+El gobierno en ITIL es el marco jerarquico que establece cómo se realizaran las actividades dentro de la organización. El gobierno asegura el cumplimiento de políticas y procedimientos, evaluando, dirigiendo y supervisando la organización para cumplir con los objetivos y estrategias establecidas.
 
 - **Evaluar**: evalúa a la organización regularmente a medida que las necesidades de los interesados y las circunstancias externas evolucionan.
 - **Dirigir**: asigna la responsabilidad y dirige la preparación y la implementación de la estrategia y las políticas de la organización. Las estrategias establecen la dirección y prioridades, la inversión futura. Establecen los requisitos de comportamiento, cuando sea relevante, los proveedores, socios y otras partes interesadas.
-- **Supervizar**: supervisa el desempeño de la organización y sus prácticas, productos y servicios. El propósito de esto es asegurar que el desempeño esté de acuerdo con las políticas y la dirección.
+- **Supervizar**: supervisa el desempeño de la organización y sus practicas, productos y servicios. El propósito de esto es asegurar que el desempeño esté de acuerdo con las políticas y la dirección.
 
 # Sistema de valor de servicio 
 
@@ -497,7 +497,7 @@ La cadena de valor del servicio es el modelo que señala las actividades claves 
 
 - El Modelo de Mejora Continua que proporciona un enfoque estructurado para implementar las mejoras
 - La actividad de “Mejorar” en la Cadena de Valor del Servicio.
-- La Práctica de mejora Continua que dá soporte a la organización en el día a día.
+- La Practica de mejora Continua que da soporte a la organización en el día a día.
 - El modelo de mejora continua se aplica al SVS en su totalidad, así como a todos los productos, servicios, componentes de servicio y relaciones de la organización.
 
 ## Proceso de mejora continua
@@ -512,7 +512,7 @@ La cadena de valor del servicio es el modelo que señala las actividades claves 
 
 - **Factor Crítico de Exito (Critical Success Factor)**: Algo que tiene que suceder para que un proceso, un proyecto, un plan o un servicio de IT se ejecute correctamente.
 - **Indicador Clave de Performance**: (Key Performance Indicator): Se utiliza para medir el desempeño de un Proceso, Servicio o Actividad.
-Las Métricas están asociadas a un CSF el cual está compuesto por KPIs.
+Las Métricas estan asociadas a un CSF el cual esta compuesto por KPIs.
 
 Ejemplo:
 **CSF**: Proteger los servicios de IT de un cliente cuando se realiza un cambio
@@ -530,22 +530,22 @@ Tomas medidas = Ejecutar acciones de mejora
 
 # Mejora Continua del Servicio (CSI)
 
-- **Definir la Vision**: El área de IT recibe información sobre los objetivos de la empresa y, junto con el negocio, define una visión que combine la estrategia de IT con la estrategia de negocio para definir una misión, las metas y objetivos.
+- **Definir la Vision**: El area de IT recibe información sobre los objetivos de la empresa y, junto con el negocio, define una visión que combine la estrategia de IT con la estrategia de negocio para definir una misión, las metas y objetivos.
 - **Registrar la situación actual**: Relevar el punto de partida y registrarlo; involucra: negocio, organización, gente, procesos y tecnología.
 - **Determinar objetivos**: Partiendo de la visión, se definen prioridades de mejora. Este paso provee metas específicas y un marco de tiempo.
 - **Planificar**: Se detalle un (SIP) Plan de Mejora del Servicio.
 - **Verificar**: Se realizan medidas para verificar que se han cumplido los objetivos y procesos.
 - **Consolidar**: Se integran los cambios con el fin de mantenerlos. El proceso debe asegurar que el impulso se mantenga a lo largo del tiempo.
 
-# Prácticas de Gestión
+# Practicas de Gestión
 
-La mejora continua incluye prácticas de gestión específicas que forman parte del sistema de valor de servicio de ITIL. Existen 34 prácticas divididas en tres segmentos: prácticas de gestión general, prácticas de gestión de servicios y prácticas de gestión técnica. Las prácticas de gestión ayudan a soportar la organización en el día a día, asegurando tiempo y presupuesto dedicados a la mejora continua, identificando y priorizando oportunidades de mejora, y coordinando actividades de mejora a lo largo de la organización.
+La mejora continua incluye practicas de gestión específicas que forman parte del sistema de valor de servicio de ITIL. Existen 34 practicas divididas en tres segmentos: practicas de gestión general, practicas de gestión de servicios y practicas de gestión técnica. Las practicas de gestión ayudan a soportar la organización en el día a día, asegurando tiempo y presupuesto dedicados a la mejora continua, identificando y priorizando oportunidades de mejora, y coordinando actividades de mejora a lo largo de la organización.
 
 El Sistema de Valor del Servicio incluye:
 
-- 14 Prácticas Generales de Gestión: Se han adoptado y adaptado para la gestión de servicios a partir de dominios generales de gestión de negocios.
-- 17 Prácticas de Gestión de Servicios: Se han desarrollado en los sectores del ITSM y la gestión de servicios.
-- 3 Prácticas de Gestión Técnica: Se han adaptado a partir de dominios de gestión de tecnología con propósitos de gestión de servicios ampliando o desplazando la atención de las soluciones tecnológicas hacia los servicios de IT.
+- 14 Practicas Generales de Gestión: Se han adoptado y adaptado para la gestión de servicios a partir de dominios generales de gestión de negocios.
+- 17 Practicas de Gestión de Servicios: Se han desarrollado en los sectores del ITSM y la gestión de servicios.
+- 3 Practicas de Gestión Técnica: Se han adaptado a partir de dominios de gestión de tecnología con propósitos de gestión de servicios ampliando o desplazando la atención de las soluciones tecnológicas hacia los servicios de IT.
 
 ## Lean, Agile y DevOps
 
@@ -561,7 +561,7 @@ Agile es una metodología de gestión de proyectos y desarrollo de software que 
 Frameworks populares: Scrum, Kanban, Extreme Programming (XP).
 
 ### DevOps
-DevOps es una cultura y conjunto de prácticas que unen el desarrollo de software (Development) y las operaciones de TI (Operations) para mejorar la colaboración y acelerar la entrega de software. Las prácticas clave incluyen:
+DevOps es una cultura y conjunto de practicas que unen el desarrollo de software (Development) y las operaciones de TI (Operations) para mejorar la colaboración y acelerar la entrega de software. Las practicas clave incluyen:
 1. **Integración Continua (CI)**
 2. **Entrega Continua (CD)**
 3. **Infraestructura como Código (IaC)**
@@ -577,8 +577,8 @@ Lean es una filosofía de gestión que maximiza el valor entregado al cliente mi
 ## Diferencias y Complementariedad
 
 ### Diferencias
-- **Agile**: Se enfoca en la flexibilidad y la entrega rápida de productos mediante iteraciones cortas. Es ideal para manejar cambios y asegurar la satisfacción del cliente.
-- **DevOps**: Extiende Agile al incluir operaciones de TI, asegurando una entrega de software rápida, eficiente y de alta calidad. Se centra en la automatización y la integración continua.
+- **Agile**: Se enfoca en la flexibilidad y la entrega rapida de productos mediante iteraciones cortas. Es ideal para manejar cambios y asegurar la satisfacción del cliente.
+- **DevOps**: Extiende Agile al incluir operaciones de TI, asegurando una entrega de software rapida, eficiente y de alta calidad. Se centra en la automatización y la integración continua.
 - **Lean**: Se originó en la manufactura y se adapta al desarrollo de software. Se enfoca en la eliminación de desperdicios y la mejora continua en todos los procesos.
 
 ### Complementariedad
@@ -586,7 +586,7 @@ Lean es una filosofía de gestión que maximiza el valor entregado al cliente mi
 - **DevOps** complementa Agile al mejorar la colaboración entre desarrollo y operaciones, lo que resulta en una entrega continua y de alta calidad.
 - **Lean** complementa ambos al enfocarse en la eficiencia y la eliminación de desperdicios, asegurando que cada proceso añada valor y mejore continuamente.
 
-Estas metodologías y prácticas a menudo se utilizan en conjunto para mejorar la eficiencia y la calidad del desarrollo y entrega de software.
+Estas metodologías y practicas a menudo se utilizan en conjunto para mejorar la eficiencia y la calidad del desarrollo y entrega de software.
 
 # PRACTICAS DE GESTION
 
@@ -594,7 +594,7 @@ Estas metodologías y prácticas a menudo se utilizan en conjunto para mejorar l
 
 - **Objetivo**: Reducir la probabilidad y el impacto de los incidentes mediante la identificaciónde sus causas reales y potenciales, y la gestión de soluciones temporales y errores conocidos.
 
-- Problema: Causa o causa potencial de uno o más incidentes.
+- Problema: Causa o causa potencial de uno o mas incidentes.
 - Error conocido: Un problema analizado pero aún no resuelto.
 - Solución Temporal: Solución que reduce o elimina el impacto del problema mientras no haya una solución definitiva.
 
@@ -616,9 +616,9 @@ Maximizar el número de cambios de productos y servicios exitosos asegurando que
 
 ## Tipos de Cambios:
 
-- **Estándar**: Previamente autorizados y de bajo riesgo que se comprenden bien y están totalmente documentados, y que se pueden implementar sin necesidad de obtener una autorización adicional. A menudo se inician como solicitudes de servicio, pero también pueden ser cambios operacionales.
+- **Estandar**: Previamente autorizados y de bajo riesgo que se comprenden bien y estan totalmente documentados, y que se pueden implementar sin necesidad de obtener una autorización adicional. A menudo se inician como solicitudes de servicio, pero también pueden ser cambios operacionales.
 - **Normales**: Se deben planificar, evaluar y autorizar mediante un proceso.
-- **Emergencia**: Son cambios que se deberían introducir tan pronto como sea posible; para resolver un incidente o aplicar un parche de seguridad. Los cambios de emergencia normalmente no están incluidos en un calendario de cambios, y su proceso de evaluación y autorización se agiliza para asegurar que se puedan implementar con rapidez.
+- **Emergencia**: Son cambios que se deberían introducir tan pronto como sea posible; para resolver un incidente o aplicar un parche de seguridad. Los cambios de emergencia normalmente no estan incluidos en un calendario de cambios, y su proceso de evaluación y autorización se agiliza para asegurar que se puedan implementar con rapidez.
 
 **Calendario de Cambios**: muestra el historial de cambios y los planificados; se utiliza para planear cambios, respaldar la comunicación, evitar conflictos y
 asignar recursos.
