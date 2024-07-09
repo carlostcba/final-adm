@@ -187,7 +187,7 @@ Es una herramienta que muestra continuamente cuando una compañía y sus emplead
 - Establecer relaciones colaborativas efectivas con proveedores y las partes interesadas del negocio.
 - Establecer politicas, standards, modelos y procesos para la gestión de IT como un activo de la organización.
 
-**areas de enfoque del gobierno de IT**:
+**Area de enfoque del gobierno de IT**:
 - **Alineación estratégica** Asegura que tanto los procesos de negocios como los de IT trabajen en conjunto.
 - **Entrega de valor** Asegura que el area de IT sea tan eficiente y eficaz como sea posible, Generalmente asociado a los costos.
 - **Gestión de riesgos**  Permite que la empresa visualice los posibles riesgos para el negocio y suministra formas de minimizarlo. Determinar y mitigar los riesgos.
